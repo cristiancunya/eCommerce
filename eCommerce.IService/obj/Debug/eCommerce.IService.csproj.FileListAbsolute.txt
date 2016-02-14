@@ -1,0 +1,42 @@
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.csprojResolveAssemblyReference.cache
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.csprojResolveAssemblyReference.cache
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.IService.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.IService\bin\Debug\eCommerce.Entities.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.csprojResolveAssemblyReference.cache
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.IService\obj\Debug\eCommerce.IService.pdb

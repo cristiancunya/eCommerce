@@ -1,0 +1,127 @@
+DEBUG 2015-06-16 22:28:30,899 12027ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:28:30 p.m.
+DEBUG 2015-06-16 22:28:36,729 17857ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 10:28:36 p.m.
+DEBUG 2015-06-18 21:58:32,627 47780ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:58:32 p.m.
+DEBUG 2015-06-18 21:58:33,564 48717ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 09:58:33 p.m.
+DEBUG 2015-06-18 22:01:43,104  8811ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:01:43 p.m.
+DEBUG 2015-06-18 22:01:43,307  9014ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 10:01:43 p.m.
+DEBUG 2015-06-18 22:02:57,889  4875ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:02:57 p.m.
+DEBUG 2015-06-18 22:02:58,084  5071ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 10:02:58 p.m.
+DEBUG 2015-06-18 22:25:00,816  6955ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:25:00 p.m.
+DEBUG 2015-06-18 22:25:01,064  7203ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 10:25:01 p.m.
+DEBUG 2015-06-25 20:58:41,417  5676ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 08:58:41 p.m.
+DEBUG 2015-06-25 20:59:05,332 29591ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 08:59:05 p.m.
+DEBUG 2015-06-25 20:59:12,088 36347ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 08:59:12 p.m.
+DEBUG 2015-06-25 20:59:16,408 40667ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 08:59:16 p.m.
+DEBUG 2015-06-25 20:59:23,327 47586ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 08:59:23 p.m.
+DEBUG 2015-06-25 20:59:54,015   923ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 08:59:54 p.m.
+DEBUG 2015-06-25 20:59:54,575  1483ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 08:59:54 p.m.
+DEBUG 2015-06-25 21:00:10,321  3637ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:00:10 p.m.
+DEBUG 2015-06-25 21:45:15,039 10956ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:45:15 p.m.
+DEBUG 2015-06-25 21:45:31,683 27600ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 09:45:31 p.m.
+DEBUG 2015-06-25 21:47:52,450  8516ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:47:52 p.m.
+DEBUG 2015-06-25 21:48:06,509 22575ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 09:48:06 p.m.
+DEBUG 2015-06-25 21:57:31,567  6163ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:57:31 p.m.
+DEBUG 2015-06-25 21:58:57,929 92525ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 09:58:57 p.m.
+DEBUG 2015-06-25 21:59:20,526 115122ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:59:20 p.m.
+DEBUG 2015-06-25 21:59:35,861 130457ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 09:59:35 p.m.
+DEBUG 2015-06-25 21:59:51,615 146211ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:59:51 p.m.
+DEBUG 2015-06-25 21:59:53,283 147879ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 09:59:53 p.m.
+DEBUG 2015-06-25 22:00:06,815 161411ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:00:06 p.m.
+DEBUG 2015-06-25 22:01:25,968 240564ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:01:25 p.m.
+DEBUG 2015-06-25 22:04:18,366  4879ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:04:18 p.m.
+DEBUG 2015-06-25 22:05:08,166  4782ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:05:08 p.m.
+DEBUG 2015-06-25 22:05:11,092  7709ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 10:05:11 p.m.
+DEBUG 2015-06-25 22:34:09,141  5226ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:34:09 p.m.
+DEBUG 2015-06-25 22:34:09,618  5703ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 10:34:09 p.m.
+DEBUG 2015-06-25 22:34:35,817 31903ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:34:35 p.m.
+DEBUG 2015-06-25 22:34:35,821 31907ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 10:34:35 p.m.
+DEBUG 2015-06-30 19:27:47,784  8878ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 07:27:47 p.m.
+DEBUG 2015-06-30 19:37:03,397 10550ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 07:37:03 p.m.
+DEBUG 2015-06-30 19:37:04,131 11284ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 07:37:04 p.m.
+DEBUG 2015-06-30 19:37:20,346  4778ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 07:37:20 p.m.
+DEBUG 2015-06-30 19:37:20,424  4856ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 07:37:20 p.m.
+DEBUG 2015-06-30 19:42:16,689  5577ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 07:42:16 p.m.
+DEBUG 2015-06-30 19:42:17,126  6014ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 07:42:17 p.m.
+DEBUG 2015-06-30 19:42:28,797 17685ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 07:42:28 p.m.
+DEBUG 2015-06-30 19:42:28,812 17700ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 07:42:28 p.m.
+DEBUG 2015-06-30 19:46:39,276  5210ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 07:46:39 p.m.
+DEBUG 2015-06-30 19:46:39,604  5538ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 07:46:39 p.m.
+DEBUG 2015-06-30 20:13:58,849  4985ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 08:13:58 p.m.
+DEBUG 2015-06-30 20:13:59,209  5344ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 08:13:59 p.m.
+DEBUG 2015-06-30 20:23:14,808  7047ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 08:23:14 p.m.
+DEBUG 2015-06-30 20:23:15,511  7750ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 08:23:15 p.m.
+DEBUG 2015-06-30 20:41:08,299  9332ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 08:41:08 p.m.
+DEBUG 2015-06-30 20:41:08,924  9957ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 08:41:08 p.m.
+DEBUG 2015-06-30 20:45:11,424  6333ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 08:45:11 p.m.
+DEBUG 2015-06-30 20:45:12,110  7019ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 08:45:12 p.m.
+DEBUG 2015-06-30 20:51:47,709 11019ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 08:51:47 p.m.
+DEBUG 2015-06-30 20:51:48,350 11659ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 08:51:48 p.m.
+DEBUG 2015-06-30 21:00:02,558  6036ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:00:02 p.m.
+DEBUG 2015-06-30 21:00:03,200  6677ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 09:00:03 p.m.
+DEBUG 2015-06-30 21:03:03,547  4299ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:03:03 p.m.
+DEBUG 2015-06-30 21:03:04,281  5033ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 09:03:04 p.m.
+DEBUG 2015-06-30 21:12:06,294  6228ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 09:12:06 p.m.
+DEBUG 2015-06-30 21:12:06,936  6871ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 09:12:06 p.m.
+DEBUG 2015-07-01 15:37:00,469 82850ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 03:37:00 p.m.
+DEBUG 2015-07-06 10:48:35,679 35948ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:48:35 a.m.
+DEBUG 2015-07-06 12:14:45,681 253213ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 12:14:45 p.m.
+DEBUG 2015-07-06 12:14:47,787 255319ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 12:14:47 p.m.
+DEBUG 2015-07-09 11:33:48,073  4470ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:33:48 a.m.
+DEBUG 2015-07-09 11:35:19,459  4538ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:35:19 a.m.
+DEBUG 2015-07-09 11:37:32,414  5080ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:37:32 a.m.
+DEBUG 2015-07-09 11:38:51,453  4861ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:38:51 a.m.
+DEBUG 2015-07-09 11:38:51,527  4935ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:38:51 a.m.
+DEBUG 2015-07-09 11:39:59,534  5006ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:39:59 a.m.
+DEBUG 2015-07-09 11:39:59,614  5086ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:39:59 a.m.
+DEBUG 2015-07-09 11:55:29,839  5127ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:55:29 a.m.
+DEBUG 2015-07-09 11:55:29,916  5204ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:55:29 a.m.
+DEBUG 2015-07-10 16:42:33,048 28954ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 04:42:33 p.m.
+DEBUG 2015-07-10 16:42:33,193 29098ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 04:42:33 p.m.
+DEBUG 2015-07-10 16:55:27,984  4711ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 04:55:27 p.m.
+DEBUG 2015-07-10 16:55:28,046  4774ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 04:55:28 p.m.
+DEBUG 2015-07-10 16:57:34,573  5158ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 04:57:34 p.m.
+DEBUG 2015-07-10 16:57:34,957  5541ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 04:57:34 p.m.
+DEBUG 2015-07-10 16:57:43,158 13742ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 04:57:43 p.m.
+DEBUG 2015-07-10 16:57:43,164 13748ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 04:57:43 p.m.
+DEBUG 2015-07-10 16:58:03,468 34052ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 04:58:03 p.m.
+DEBUG 2015-07-10 16:58:03,475 34059ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 04:58:03 p.m.
+DEBUG 2015-07-10 16:58:08,770 39355ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 04:58:08 p.m.
+DEBUG 2015-07-15 11:20:57,755 11728ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:20:57 a.m.
+DEBUG 2015-07-15 11:20:58,098 12071ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:20:58 a.m.
+DEBUG 2015-07-15 11:21:50,854 64827ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:21:50 a.m.
+DEBUG 2015-07-15 11:21:50,860 64833ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:21:50 a.m.
+DEBUG 2015-07-15 11:22:13,310 87283ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:22:13 a.m.
+DEBUG 2015-07-15 11:22:13,315 87288ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:22:13 a.m.
+DEBUG 2015-07-15 11:28:00,625 434598ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:28:00 a.m.
+DEBUG 2015-07-15 11:28:00,629 434602ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:28:00 a.m.
+DEBUG 2015-07-15 11:31:15,035  3453ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:31:15 a.m.
+DEBUG 2015-07-15 11:31:15,343  3761ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:31:15 a.m.
+DEBUG 2015-12-02 10:51:53,106 33376ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:51:53 a.m.
+DEBUG 2015-12-02 10:51:54,692 34961ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 10:51:54 a.m.
+DEBUG 2015-12-02 10:52:12,475 52745ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:52:12 a.m.
+DEBUG 2015-12-02 10:52:12,491 52760ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 10:52:12 a.m.
+DEBUG 2015-12-02 10:52:22,836 63106ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 10:52:22 a.m.
+DEBUG 2016-02-13 11:29:14,880 24640ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:29:14 a.m.
+DEBUG 2016-02-13 11:29:16,454 26214ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:29:16 a.m.
+DEBUG 2016-02-13 11:29:48,692 58452ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:29:48 a.m.
+DEBUG 2016-02-13 11:29:48,695 58455ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:29:48 a.m.
+DEBUG 2016-02-13 11:29:58,376 68136ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:29:58 a.m.
+DEBUG 2016-02-13 11:29:58,378 68138ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:29:58 a.m.
+DEBUG 2016-02-13 11:30:12,077 81837ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 11:30:12 a.m.
+DEBUG 2016-02-13 11:30:12,080 81840ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 11:30:12 a.m.
+DEBUG 2016-02-13 12:59:30,138 39457ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 12:59:30 p.m.
+DEBUG 2016-02-13 12:59:31,888 41207ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 12:59:31 p.m.
+DEBUG 2016-02-13 17:01:01,937 83085ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 17:01:01
+DEBUG 2016-02-13 17:01:01,977 83125ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 17:01:01
+DEBUG 2016-02-13 17:02:49,194 20208ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 17:02:49
+DEBUG 2016-02-13 17:02:49,617 20631ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 17:02:49
+DEBUG 2016-02-13 17:02:59,381 30395ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 17:02:59
+DEBUG 2016-02-13 17:02:59,385 30399ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 17:02:59
+DEBUG 2016-02-13 17:04:38,991 130005ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 17:04:38
+DEBUG 2016-02-13 17:04:38,992 130006ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 17:04:38
+DEBUG 2016-02-13 17:39:37,156  4534ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 17:39:37
+DEBUG 2016-02-13 17:39:37,243  4622ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 17:39:37
+DEBUG 2016-02-13 18:54:37,375  4297ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 18:54:37
+DEBUG 2016-02-13 18:54:37,463  4385ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 18:54:37
+DEBUG 2016-02-13 18:54:44,146 11068ms LoggingFilterAttribute OnActionExecuting  - Inicia ejecucion de: Controller Producto, Action Index, Hora Inicio 18:54:44
+DEBUG 2016-02-13 18:54:44,147 11069ms LoggingFilterAttribute OnActionExecuted   - Termina ejecucion de: Controller Producto, Action Index, Hora Fin 18:54:44

@@ -1,0 +1,13 @@
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\eCommerce.Business.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\eCommerce.Business.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\eCommerce.Data.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\eCommerce.Entities.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\eCommerce.Data.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\eCommerce.Entities.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\obj\Release\eCommerce.Business.csprojResolveAssemblyReference.cache
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\obj\Release\eCommerce.Business.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Business\obj\Release\eCommerce.Business.pdb

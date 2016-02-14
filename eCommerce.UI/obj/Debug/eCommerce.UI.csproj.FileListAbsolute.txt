@@ -1,0 +1,228 @@
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll.config
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\eCommerce.UI.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.csprojResolveAssemblyReference.cache
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\EntityFramework.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Owin.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\EntityFramework.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\eCommerce.Business.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\eCommerce.Business.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\eCommerce.Data.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\eCommerce.Data.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll.config
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.UI.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Business.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\EntityFramework.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Owin.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Data.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Business.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\EntityFramework.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Data.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll.config
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.UI.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Business.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\EntityFramework.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Owin.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Data.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Business.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\EntityFramework.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\eCommerce.Data.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.csprojResolveAssemblyReference.cache
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll.config
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\eCommerce.UI.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\eCommerce.Business.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\EntityFramework.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Owin.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\eCommerce.Data.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\eCommerce.Business.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\EntityFramework.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\eCommerce.Data.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll.config
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\eCommerce.UI.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\eCommerce.Business.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\EntityFramework.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Owin.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\eCommerce.Business.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\EntityFramework.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll.config
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\eCommerce.UI.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\eCommerce.UI.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\eCommerce.Business.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\EntityFramework.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Owin.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\eCommerce.Data.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\eCommerce.Business.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\eCommerce.Entities.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\EntityFramework.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\EntityFramework.SqlServer.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Core.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.Cookies.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Owin.Security.OAuth.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Newtonsoft.Json.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\eCommerce.Data.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.csprojResolveAssemblyReference.cache
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.UI\obj\Debug\eCommerce.UI.pdb

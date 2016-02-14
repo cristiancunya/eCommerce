@@ -1,0 +1,4 @@
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\bin\Release\eCommerce.Entities.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\bin\Release\eCommerce.Entities.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\obj\Release\eCommerce.Entities.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\obj\Release\eCommerce.Entities.pdb

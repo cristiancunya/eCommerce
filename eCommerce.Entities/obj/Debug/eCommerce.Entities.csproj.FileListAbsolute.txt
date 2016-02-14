@@ -1,0 +1,48 @@
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.csprojResolveAssemblyReference.cache
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Entities\bin\Debug\en-US\eCommerce.Resource.resources.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\en-US\eCommerce.Resource.resources.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\bin\Debug\en-US\eCommerce.Resource.resources.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.csprojResolveAssemblyReference.cache
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Entities\bin\Debug\en-US\eCommerce.Resource.resources.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Entities\bin\Debug\en-US\eCommerce.Resource.resources.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.csprojResolveAssemblyReference.cache
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Entities.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Entities\bin\Debug\eCommerce.Resource.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Entities\bin\Debug\en-US\eCommerce.Resource.resources.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.csprojResolveAssemblyReference.cache
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Entities\obj\Debug\eCommerce.Entities.pdb

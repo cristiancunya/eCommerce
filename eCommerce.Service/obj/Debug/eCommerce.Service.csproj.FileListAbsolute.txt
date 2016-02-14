@@ -1,0 +1,126 @@
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll.config
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\en-US\eCommerce.Resource.resources.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.csprojResolveAssemblyReference.cache
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.pdb
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.dll
+D:\Net c#\c#\instructor\ProyectoFinal\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll.config
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.pdb
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CIBERTEC\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\en-US\eCommerce.Resource.resources.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll.config
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.pdb
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\bin\Debug\en-US\eCommerce.Resource.resources.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.csprojResolveAssemblyReference.cache
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.dll
+C:\Users\NET45\Desktop\TRABAJO FINAL\CLASE FINAL PROFESOR\CLASE FINAL PROFESOR\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll.config
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.pdb
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\bin\Debug\en-US\eCommerce.Resource.resources.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.dll
+C:\CIBERTEC\PROYECTO_REVISADO\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll.config
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.pdb
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\bin\Debug\en-US\eCommerce.Resource.resources.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.csprojResolveAssemblyReference.cache
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.dll
+C:\CIBERTEC\PRUEBA\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll.config
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Service.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Business.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Data.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Entities.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.IService.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\eCommerce.Resource.pdb
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\bin\Debug\en-US\eCommerce.Resource.resources.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.csprojResolveAssemblyReference.cache
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.dll
+M:\PROYECTO_FINAL_CIBERTEC_WEB\slneCommerce\eCommerce.Service\obj\Debug\eCommerce.Service.pdb

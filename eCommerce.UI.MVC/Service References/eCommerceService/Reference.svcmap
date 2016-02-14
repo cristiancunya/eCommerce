@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fb1975c3-a6b5-4938-8b7f-bdd3d6da0902" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies>
+      <ReferencedAssembly AssemblyName="eCommerce.Entities" />
+      <ReferencedAssembly AssemblyName="eCommerce.IService" />
+      <ReferencedAssembly AssemblyName="eCommerce.Resource" />
+    </ReferencedAssemblies>
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/eCommerce/Service/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="193e57f1-c900-4232-b22b-79638ccf5c4d" SourceId="1" SourceUrl="http://localhost:8733/eCommerce/Service/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="b2d1aa1a-aa59-433a-a8f2-4615771e09ea" SourceId="1" SourceUrl="http://localhost:8733/eCommerce/Service/?xsd=xsd0" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="7d8acd2b-5d63-448f-bd3b-4bcdd6a6f70a" SourceId="1" SourceUrl="http://localhost:8733/eCommerce/Service/?xsd=xsd3" />
+    <MetadataFile FileName="eCommerceService.wsdl" MetadataType="Wsdl" ID="873eb98e-da1f-4e12-9606-611f161ede7f" SourceId="1" SourceUrl="http://localhost:8733/eCommerce/Service/?wsdl" />
+    <MetadataFile FileName="item3.xsd" MetadataType="Schema" ID="5db277c5-34fc-4cc0-a7a7-d7b68b9233c9" SourceId="1" SourceUrl="http://localhost:8733/eCommerce/Service/?xsd=xsd2" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="e161e404-32c2-4ef3-baef-b3c42d295798" SourceId="1" SourceUrl="http://localhost:8733/eCommerce/Service/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

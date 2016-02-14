@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/eCommerce.Service.DataContracts" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/eCommerce.Service.DataContracts" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8733/eCommerce/Service/?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/eCommerce.Entities" />
+  <xs:complexType name="GetProductosRequest">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseRequest">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="GetProductosRequest" nillable="true" type="tns:GetProductosRequest" />
+  <xs:complexType name="DataContractBaseRequest">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="UserId" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DataContractBaseRequest" nillable="true" type="tns:DataContractBaseRequest" />
+  <xs:complexType name="GetProductosResponse">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseResponse">
+        <xs:sequence>
+          <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/eCommerce.Entities" minOccurs="0" name="Productos" nillable="true" type="q1:ArrayOfProducto" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="GetProductosResponse" nillable="true" type="tns:GetProductosResponse" />
+  <xs:complexType name="DataContractBaseResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ErrorCode" type="xs:int" />
+      <xs:element minOccurs="0" name="ErrorMessage" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DataContractBaseResponse" nillable="true" type="tns:DataContractBaseResponse" />
+  <xs:complexType name="SaveProductoRequest">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseRequest">
+        <xs:sequence>
+          <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/eCommerce.Entities" minOccurs="0" name="Producto" nillable="true" type="q2:Producto" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SaveProductoRequest" nillable="true" type="tns:SaveProductoRequest" />
+  <xs:complexType name="SaveProductoResponse">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseResponse">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SaveProductoResponse" nillable="true" type="tns:SaveProductoResponse" />
+  <xs:complexType name="DeleteProductoRequest">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseRequest">
+        <xs:sequence>
+          <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/eCommerce.Entities" minOccurs="0" name="Producto" nillable="true" type="q3:Producto" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="DeleteProductoRequest" nillable="true" type="tns:DeleteProductoRequest" />
+  <xs:complexType name="DeleteProductoResponse">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseResponse">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="DeleteProductoResponse" nillable="true" type="tns:DeleteProductoResponse" />
+  <xs:complexType name="EditProductoRequest">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseRequest">
+        <xs:sequence>
+          <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/eCommerce.Entities" minOccurs="0" name="Producto" nillable="true" type="q4:Producto" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="EditProductoRequest" nillable="true" type="tns:EditProductoRequest" />
+  <xs:complexType name="EditProductoResponse">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseResponse">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="EditProductoResponse" nillable="true" type="tns:EditProductoResponse" />
+  <xs:complexType name="GetProductoRequest">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseRequest">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="idProducto" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="GetProductoRequest" nillable="true" type="tns:GetProductoRequest" />
+  <xs:complexType name="GetProductoResponse">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataContractBaseResponse">
+        <xs:sequence>
+          <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/eCommerce.Entities" minOccurs="0" name="Producto" nillable="true" type="q5:Producto" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="GetProductoResponse" nillable="true" type="tns:GetProductoResponse" />
+</xs:schema>
